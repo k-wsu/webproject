@@ -1,0 +1,58 @@
+/*
+  white: #FFFFFF
+  accent1: #996A6A 
+  accent2: #5B7499
+*/
+
+body {
+  padding: 30px 80px 30px 80px;
+  font-size: 1.3em;
+}
+
+h1 {
+  color: #996A6A;
+  text-align: center;
+}
+
+th, 
+td {
+  border-color: #5B7499;
+  border-style:dashed;
+  border-width: 3px;
+  padding: 10px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+a {
+  color: #996A6A;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5B7499;
+}
+
+p.text {
+  background-color: #996A6A;
+  color: #FFFFFF;
+  width: 700px;
+  padding: 25px 40px 25px 40px;
+  border-style: outset;
+  border-color: #5B7499;
+  border-width: 10px;
+  margin: 40px;
+}
+
+div {
+  background-color: #996A6A;
+  width: 646px;
+  padding: 40px;
+  border-style: ridge;
+  border-width: 10px;
+  border-color: #5B7499;
+  margin: 50px;
+}
